@@ -1,0 +1,7 @@
+#Mon Jan 16 11:41:27 IST 2017
+base.0=/home/ln-300/Desktop/ActivityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cff072fa1a9eff8dc0b1aae239f127ac0b8ebc7d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/ln-300/Desktop/ActivityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b08eb43c44791f16d80668d0ad1635fcc4e1b5de/classes.dex
+base.1=/home/ln-300/Desktop/ActivityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b08eb43c44791f16d80668d0ad1635fcc4e1b5de
+file.0=/home/ln-300/Desktop/ActivityDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cff072fa1a9eff8dc0b1aae239f127ac0b8ebc7d/classes.dex
